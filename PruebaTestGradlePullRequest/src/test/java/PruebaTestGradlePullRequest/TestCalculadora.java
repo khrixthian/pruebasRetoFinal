@@ -7,7 +7,7 @@ import org.junit.Test;
 public class TestCalculadora {
 	int resultado;
 	int resulesperado;
-	Calculadora calcu;
+	Calculadora calcu = new Calculadora();
 
 	// comentario
 	@Test
