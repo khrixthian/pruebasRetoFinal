@@ -24,5 +24,5 @@ public class TestCalculadora {
 
 		assertEquals(resultado, resulesperado);
 	}
-	// comentario
+
 }
