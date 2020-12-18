@@ -8,7 +8,8 @@ public class TestCalculadora {
 	int resultado;
 	int resulesperado;
 	Calculadora calcu = new Calculadora();
-//comentario desde el git viernes tarde
+
+//comentario 
 	@Test
 	public void SumaTest() {
 		resultado = calcu.suma(5, 6);
