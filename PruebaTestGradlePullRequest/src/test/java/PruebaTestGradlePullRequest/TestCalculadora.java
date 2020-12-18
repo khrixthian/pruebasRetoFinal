@@ -9,7 +9,7 @@ public class TestCalculadora {
 	int resulesperado;
 	Calculadora calcu = new Calculadora();
 
-	// comentario
+	// comentario 2
 	@Test
 	public void SumaTest() {
 		resultado = calcu.suma(5, 6);
